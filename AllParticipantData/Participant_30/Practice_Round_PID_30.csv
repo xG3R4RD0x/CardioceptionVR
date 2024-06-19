@@ -1,0 +1,47 @@
+Trial #,Speed Mod,Starting HR,Participant Response,Accuracy,Confidence Rating,40 BPM Question Duration (ms),Confidence Question Duration (ms)
+Trial 1,+10,0,no match,1,6,8027.438,3478.764
+Trial 2,-10,0,no match,1,7,6309.961,2211.168
+Trial 3,-10,0,matched,0,10,919.3633,1878.152
+Trial 4,real,0,matched,1,8,774.1641,1378.332
+Trial 5,+10,0,no match,1,8,1409,1744.648
+Trial 1,+10,0,matched,0,6,2442.105,1166.469
+Trial 2,-10,0,matched,0,7,1080.869,1301.277
+Trial 3,-10,0,matched,0,7,904.7266,1889.531
+Trial 4,real,0,no match,0,9,393.2852,1334.012
+Trial 5,+10,0,no match,1,8,427.2461,1222.98
+Trial 1,+10,0,no match,1,8,848.9551,1044.366
+Trial 2,-10,0,no match,1,8,507.5352,1244.699
+Trial 3,-10,0,no match,1,8,885.5938,1089.047
+Trial 4,real,0,no match,0,8,341.2891,1645.191
+Trial 5,+10,0,no match,1,8,508.1602,911.2344
+Trial 1,+10,0,no match,1,8,736.6338,1355.965
+Trial 2,-10,0,no match,1,8,403.084,1534.191
+Trial 3,-10,0,matched,0,6,481.9004,1411.793
+Trial 4,real,0,no match,0,7,1115.801,799.75
+Trial 5,+10,0,no match,1,10,416.0078,1078.102
+Trial 1,+10,0,no match,1,8,1449.716,1767.244
+Trial 2,-10,0,matched,0,7,449.0508,1300.201
+Trial 3,-10,0,matched,0,5,848.4141,1633.719
+Trial 4,real,0,no match,0,8,482.0938,1700.895
+Trial 5,+10,0,no match,1,7,449.3047,1155.449
+Trial 1,+10,0,no match,1,7,679.9766,810.5273
+Trial 2,-10,0,no match,1,7,407.9023,888.8672
+Trial 3,-10,0,no match,1,7,862.4844,910.6484
+Trial 4,real,0,no match,0,6,651.75,1488.961
+Trial 5,+10,0,matched,0,5,838.75,1055.359
+Trial 1,+10,0,no match,1,9,695.8008,1167.162
+Trial 2,-10,0,no match,1,7,973.2344,999.6367
+Trial 3,-10,0,no match,1,6,617.0039,1200.082
+Trial 4,real,0,no match,0,5,1095.457,1076.793
+Trial 5,+10,0,no match,1,7,473.0078,1444.715
+Trial 1,+10,0,no match,1,7,18008.1,2565.723
+Trial 2,-10,0,no match,1,7,2429.086,2566.953
+Trial 3,-10,0,no match,1,6,2252.313,1866.18
+Trial 4,real,0,matched,1,4,2163.711,1866.406
+Trial 5,+10,0,no match,1,7,2988.883,1987.797
+Trial 1,+10,0,matched,0,confidence_placeholder,772.5762,duration_placeholder
+Trial 1,+10,0,matched,0,4,921.4492,1866.047
+Trial 2,-10,0,no match,1,6,1298.242,1233.57
+Trial 3,-10,0,matched,0,5,843.2891,1231.336
+Trial 4,real,0,matched,1,5,876.9844,957.1953
+Trial 5,+10,0,matched,0,6,497.8359,989.9141

@@ -1,0 +1,92 @@
+Started the practice round at: 4/28/2024 1:53:52 PM
+Started the practice round at: 4/28/2024 1:55:16 PM
+Started the practice round at: 4/28/2024 1:55:49 PM
+Started the practice round at: 4/28/2024 1:57:10 PM
+Started the practice round at: 4/28/2024 1:57:41 PM
+Started the practice round at: 4/28/2024 1:59:09 PM
+Started the practice round at: 4/28/2024 2:16:06 PM
+Started the practice round at: 4/28/2024 2:18:06 PM
+Started the practice round at: 4/28/2024 2:19:06 PM
+Started the practice round at: 4/28/2024 2:20:07 PM
+Started the practice round at: 4/28/2024 2:21:09 PM
+Started the practice round at: 4/28/2024 2:26:03 PM
+Started the practice round at: 4/28/2024 2:27:23 PM
+Started the practice round at: 4/28/2024 2:27:44 PM
+Started the practice round at: 4/28/2024 2:29:41 PM
+Started the practice round at: 5/6/2024 2:35:28 PM
+Started the practice round at: 5/6/2024 3:28:59 PM
+Started the practice round at: 5/6/2024 3:30:02 PM
+Started the practice round at: 5/6/2024 3:33:56 PM
+Started the practice round at: 5/6/2024 3:34:13 PM
+Started the experiment at: 5/6/2024 3:35:30 PMStarted the practice round at: 5/6/2024 3:37:11 PM
+Started the experiment at: 5/6/2024 3:38:19 PMStarted the practice round at: 5/6/2024 3:40:58 PM
+Started the practice round at: 5/6/2024 3:41:20 PM
+Started the experiment at: 5/6/2024 3:42:19 PMStarted the practice round at: 5/6/2024 3:44:03 PM
+Started the practice round at: 5/6/2024 3:44:16 PM
+Started the experiment at: 5/6/2024 3:45:13 PMStarted the practice round at: 5/6/2024 4:07:55 PM
+Started the experiment at: 5/6/2024 4:09:00 PMStarted the practice round at: 5/6/2024 4:49:01 PM
+Started the practice round at: 5/6/2024 4:50:12 PM
+Started the practice round at: 5/6/2024 5:01:32 PM
+Started the experiment at: 5/6/2024 5:03:04 PMStarted the practice round at: 5/6/2024 5:29:08 PM
+Started the practice round at: 5/6/2024 5:30:02 PM
+Started the experiment at: 5/6/2024 5:31:02 PMStarted the practice round at: 5/6/2024 5:32:30 PM
+Started the experiment at: 5/6/2024 5:34:13 PMStarted the practice round at: 5/6/2024 5:36:46 PM
+Started the practice round at: 5/6/2024 5:37:06 PM
+Started the practice round at: 5/6/2024 5:37:19 PM
+Started the practice round at: 5/6/2024 5:38:14 PM
+Started the practice round at: 5/6/2024 5:39:09 PM
+Started the practice round at: 5/7/2024 2:58:25 PM
+Started the practice round at: 5/7/2024 3:13:18 PM
+Started the practice round at: 5/22/2024 1:12:54 PM
+Started the practice round at: 6/3/2024 1:13:59 PM
+Started the practice round at: 6/3/2024 1:44:53 PM
+Started the experiment at: 6/3/2024 1:46:36 PM
+ Trial List for Block 1: List contents: 0, 1, -1, -1, 1, -1, 0, -2, 2, -2, -2, 0, 2, 2, 1,  
+
+ Trial List for Block 1: List contents: 0, -2, -1, 2, 1, 1, -1, 1, -1, 2, -2, -2, 0, 2, 0,  
+
+ Trial List for Block 1: List contents: 0, -1, 2, -2, -1, 2, -2, 0, 1, 2, -2, 0, -1, 1, 1,  
+
+ Trial List for Block 1: List contents: 0, 2, -2, 2, 1, -1, 2, -2, 1, 0, -2, -1, -1, 1, 0,  
+
+ Trial List for Block 1: List contents: 0, 2, -2, -1, -1, 1, 2, -2, -1, 2, 1, -2, 0, 0, 1,  
+
+ Trial List for Block 1: List contents: 0, -1, 2, 1, -2, 0, 1, -1, -2, 2, 1, -2, -1, 0, 2,  
+
+ Trial List for Block 1: List contents: 0, -2, -1, 2, 1, -2, 2, 0, 2, 0, -1, 1, -1, 1, -2,  
+
+ Trial List for Block 1: List contents: 0, -1, -2, -1, 0, -1, 2, -2, 0, -2, 1, 1, 1, 2, 2,  
+
+ Trial List for Block 1: List contents: 0, 2, -2, -1, -1, 1, 2, -2, -1, 2, 1, 0, 0, -2, 1,  
+
+ Trial List for Block 1: List contents: 0, 1, 2, -2, 0, -1, 2, 0, -1, 1, 2, -1, 1, -2, -2,  
+
+ Trial List for Block 1: List contents: 0, -1, 2, 1, 0, -2, -1, -2, -2, 2, 1, 2, 1, -1, 0,  
+
+ Trial List for Block 1: List contents: 0, 2, -2, -1, 2, 2, -2, -2, 1, 1, 0, -1, 0, 1, -1,  
+
+ Trial List for Block 1: List contents: 0, -1, 2, 2, -2, 1, 1, -1, 1, 2, -1, -2, -2, 0, 0,  
+
+ Trial List for Block 1: List contents: 0, -2, 0, -1, 2, 1, -2, -2, -1, 1, 1, 2, 2, -1, 0,  
+
+ Trial List for Block 1: List contents: 0, 2, 1, 2, -2, -1, 0, -2, -1, 1, 2, -2, 0, 1, -1,  
+
+ Trial List for Block 2: List contents: -1, 1, 1, -2, 2, 2, 0, 2, 0, -2, -2, -1, 1, 0, -1,  
+
+ Trial List for Block 1: List contents: 0, -2, 1, -2, 0, 2, 2, -1, 1, -2, 0, 2, 1, -1, -1,  
+
+ Trial List for Block 1: List contents: 0, -2, 1, 1, -1, 1, -2, 2, -1, 0, -2, 0, 2, 2, -1,  
+
+ Trial List for Block 1: List contents: 0, -1, 2, 2, 0, 1, -2, -1, 1, -2, 1, -1, -2, 0, 2,  
+
+ Trial List for Block 1: List contents: 0, 2, -1, 2, -2, 1, -2, -1, 0, -1, 2, 0, -2, 1, 1,  
+
+ Trial List for Block 1: List contents: 0, -1, 1, 2, -2, 1, -1, 1, -1, -2, -2, 2, 0, 2, 0,  
+
+ Trial List for Block 1: List contents: 0, 1, -2, 1, -1, 2, 0, 0, -2, -1, -1, 2, 2, -2, 1,  
+
+ Trial List for Block 1: List contents: 0, 2, 2, -2, 0, -2, -2, 2, 1, -1, 1, -1, 1, -1, 0,  
+
+ Trial List for Block 1: List contents: 0, -2, -1, 2, 1, -1, -1, 1, 1, -2, 0, 0, 2, 2, -2,  
+
+ Trial List for Block 1: List contents: 0, -1, -1, -1, 1, 1, 1, 2, -2, 0, 0, -2, 2, 2, -2,  

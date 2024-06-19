@@ -1,0 +1,320 @@
+Started the practice round at: 6/3/2024 1:53:19 PM
+Started the practice round at: 6/3/2024 1:55:44 PM
+Started the experiment at: 6/3/2024 1:57:03 PM
+ Trial List for Block 1: List contents: 1, 2, 1, 0, -2, 1, 0, 0, 2, -1, -1, -2, 2, -2, -1,  
+
+
+Trial 1 - Starting HR: 77, Modified HR: 88.55, Time: 1717415826156; HR: 78, Modified HR: 89.7, Time 1717415828155; HR: 79, Modified HR: 90.85, Time 1717415830155; HR: 80, Modified HR: 92, Time 1717415832155; End HR: 81, Time 1717415833122; 
+
+HR Changes in between trials:  HR: 81, Modified HR: 93.15, Time 1717415833123;Started the practice round at: 6/3/2024 1:57:44 PM
+Started the experiment at: 6/3/2024 1:59:02 PM
+ Trial List for Block 1: List contents: -1, 1, 0, 1, -1, 2, 2, 2, -2, -2, 1, -1, 0, -2, 0,  
+
+
+Trial 1 - Starting HR: 82, Modified HR: 69.7, Time: 1717415949152; HR: 83, Modified HR: 70.55, Time 1717415951150; HR: 82, Modified HR: 69.7, Time 1717415953150; HR: 83, Modified HR: 70.55, Time 1717415954117; HR: 84, Modified HR: 71.4, Time 1717415955195; HR: 85, Modified HR: 72.25, Time 1717415956117; End HR: 87, Time 1717415957139; 
+
+HR Changes in between trials:  HR: 87, Modified HR: 73.95, Time 1717415957140; HR: 88, Modified HR: 74.8, Time 1717415958117;
+
+Trial 2 - Starting HR: 88, Modified HR: 101.2, Time: 1717415961139; HR: 87, Modified HR: 100.05, Time 1717415963138; HR: 85, Modified HR: 97.75, Time 1717415964116; HR: 86, Modified HR: 98.9, Time 1717415966195; HR: 87, Modified HR: 100.05, Time 1717415967228; End HR: 86, Time 1717415968117; 
+
+HR Changes in between trials:  HR: 86, Modified HR: 98.9, Time 1717415968118; HR: 84, Modified HR: 96.6, Time 1717415969139; HR: 83, Modified HR: 83, Time 1717415970153;
+
+Trial 3 - Starting HR: 81, Modified HR: 81, Time: 1717415974160; HR: 82, Modified HR: 82, Time 1717415977128; HR: 81, Modified HR: 81, Time 1717415979130; End HR: 81, Time 1717415981128; 
+
+HR Changes in between trials: 
+
+Trial 4 - Starting HR: 80, Modified HR: 92, Time: 1717415985127; HR: 81, Modified HR: 93.15, Time 1717415986150; HR: 83, Modified HR: 95.45, Time 1717415987128; HR: 82, Modified HR: 94.3, Time 1717415991128; HR: 81, Modified HR: 93.15, Time 1717415992149; End HR: 80, Time 1717415993118; 
+
+HR Changes in between trials:  HR: 80, Modified HR: 92, Time 1717415993119;
+
+Trial 5 - Starting HR: 80, Modified HR: 68, Time: 1717415998139; HR: 79, Modified HR: 67.15, Time 1717416000140; HR: 80, Modified HR: 68, Time 1717416003118; End HR: 80, Time 1717416005118; 
+
+HR Changes in between trials: 
+
+Trial 6 - Starting HR: 81, Modified HR: 105.3, Time: 1717416010139; HR: 80, Modified HR: 104, Time 1717416011107; HR: 79, Modified HR: 102.7, Time 1717416012140; HR: 80, Modified HR: 104, Time 1717416014129; HR: 81, Modified HR: 105.3, Time 1717416015106; HR: 83, Modified HR: 107.9, Time 1717416016175; End HR: 83, Time 1717416017106; 
+
+HR Changes in between trials:  HR: 84, Modified HR: 109.2, Time 1717416018129;
+
+Trial 7 - Starting HR: 85, Modified HR: 110.5, Time: 1717416021244; HR: 84, Modified HR: 109.2, Time 1717416022129; HR: 81, Modified HR: 105.3, Time 1717416023150; HR: 80, Modified HR: 104, Time 1717416024129; HR: 81, Modified HR: 105.3, Time 1717416026174; HR: 82, Modified HR: 106.6, Time 1717416027151; HR: 83, Modified HR: 107.9, Time 1717416028129; End HR: 84, Time 1717416029150; 
+
+HR Changes in between trials:  HR: 84, Modified HR: 109.2, Time 1717416029152;
+
+Trial 8 - Starting HR: 82, Modified HR: 106.6, Time: 1717416033140; HR: 80, Modified HR: 104, Time 1717416034119; HR: 79, Modified HR: 102.7, Time 1717416035240; HR: 80, Modified HR: 104, Time 1717416037140; HR: 79, Modified HR: 102.7, Time 1717416039141; End HR: 79, Time 1717416040162; 
+
+HR Changes in between trials:  HR: 80, Modified HR: 104, Time 1717416041163;
+
+Trial 9 - Starting HR: 78, Modified HR: 54.6, Time: 1717416044129; HR: 79, Modified HR: 55.3, Time 1717416048153; HR: 80, Modified HR: 56, Time 1717416049140; HR: 81, Modified HR: 56.7, Time 1717416050107; HR: 80, Modified HR: 56, Time 1717416051140; End HR: 81, Time 1717416052108; 
+
+HR Changes in between trials:  HR: 81, Modified HR: 56.7, Time 1717416052109;
+
+Trial 10 - Starting HR: 81, Modified HR: 56.7, Time: 1717416056116; HR: 82, Modified HR: 57.4, Time 1717416057169; HR: 83, Modified HR: 58.1, Time 1717416059130; HR: 84, Modified HR: 58.8, Time 1717416061129; HR: 83, Modified HR: 58.1, Time 1717416062152; HR: 81, Modified HR: 56.7, Time 1717416063130; End HR: 81, Time 1717416064152; 
+
+HR Changes in between trials: 
+
+Trial 11 - Starting HR: 83, Modified HR: 95.45, Time: 1717416068151; HR: 84, Modified HR: 96.6, Time 1717416069130; HR: 85, Modified HR: 97.75, Time 1717416072141; HR: 84, Modified HR: 96.6, Time 1717416073174; HR: 81, Modified HR: 93.15, Time 1717416074196; End HR: 81, Time 1717416075120; 
+
+HR Changes in between trials: 
+
+Trial 12 - Starting HR: 85, Modified HR: 72.25, Time: 1717416079117; HR: 86, Modified HR: 73.1, Time 1717416080176; HR: 85, Modified HR: 72.25, Time 1717416082141; HR: 82, Modified HR: 69.7, Time 1717416083118; HR: 80, Modified HR: 68, Time 1717416084142; HR: 79, Modified HR: 67.15, Time 1717416085119; End HR: 78, Time 1717416086141; 
+
+HR Changes in between trials:  HR: 78, Modified HR: 66.3, Time 1717416086142;
+
+Trial 13 - Starting HR: 87, Modified HR: 87, Time: 1717416092129; HR: 86, Modified HR: 86, Time 1717416093147; HR: 85, Modified HR: 85, Time 1717416097105; End HR: 85, Time 1717416099152; 
+
+HR Changes in between trials: 
+
+Trial 14 - Starting HR: 84, Modified HR: 58.8, Time: 1717416102151; HR: 82, Modified HR: 57.4, Time 1717416103153; HR: 83, Modified HR: 58.1, Time 1717416108119; End HR: 83, Time 1717416110119; 
+
+HR Changes in between trials: 
+
+Trial 15 - Starting HR: 81, Modified HR: 81, Time: 1717416114118; HR: 82, Modified HR: 82, Time 1717416116154; HR: 83, Modified HR: 83, Time 1717416118119; HR: 84, Modified HR: 84, Time 1717416119141; End HR: 84, Time 1717416121186; 
+
+HR Changes in between trials: 
+ Trial List for Block 2: List contents: -1, 2, -1, 2, -2, 1, 2, 0, 1, -2, 0, 1, -1, 0, -2,  
+
+
+Trial 1 - Starting HR: 85, Modified HR: 72.25, Time: 1717416127186; HR: 84, Modified HR: 71.4, Time 1717416132108; HR: 83, Modified HR: 70.55, Time 1717416133131; End HR: 83, Time 1717416134143; 
+
+HR Changes in between trials:  HR: 84, Modified HR: 71.4, Time 1717416135131;
+
+Trial 2 - Starting HR: 84, Modified HR: 109.2, Time: 1717416139123; HR: 83, Modified HR: 107.9, Time 1717416141130; HR: 82, Modified HR: 106.6, Time 1717416142152; HR: 83, Modified HR: 107.9, Time 1717416143120; HR: 84, Modified HR: 109.2, Time 1717416145131; End HR: 84, Time 1717416146153; 
+
+HR Changes in between trials:  HR: 85, Modified HR: 110.5, Time 1717416147120;
+
+Trial 3 - Starting HR: 85, Modified HR: 72.25, Time: 1717416150152; HR: 84, Modified HR: 71.4, Time 1717416151119; HR: 81, Modified HR: 68.85, Time 1717416152141; HR: 80, Modified HR: 68, Time 1717416153164; HR: 81, Modified HR: 68.85, Time 1717416155220; End HR: 82, Time 1717416157120; 
+
+HR Changes in between trials:  HR: 82, Modified HR: 69.7, Time 1717416157121; HR: 83, Modified HR: 70.55, Time 1717416158142;
+
+Trial 4 - Starting HR: 82, Modified HR: 106.6, Time: 1717416161118; HR: 81, Modified HR: 105.3, Time 1717416162179; HR: 80, Modified HR: 104, Time 1717416163109; HR: 81, Modified HR: 105.3, Time 1717416165108; HR: 82, Modified HR: 106.6, Time 1717416166140; HR: 83, Modified HR: 107.9, Time 1717416167109; End HR: 84, Time 1717416168131; 
+
+HR Changes in between trials:  HR: 84, Modified HR: 109.2, Time 1717416168131; HR: 86, Modified HR: 111.8, Time 1717416169109;
+
+Trial 5 - Starting HR: 87, Modified HR: 60.9, Time: 1717416172186; HR: 86, Modified HR: 60.2, Time 1717416174131; HR: 85, Modified HR: 59.5, Time 1717416177109; HR: 84, Modified HR: 58.8, Time 1717416178176; End HR: 84, Time 1717416179153; 
+
+HR Changes in between trials:  HR: 83, Modified HR: 58.1, Time 1717416180172;
+
+Trial 6 - Starting HR: 85, Modified HR: 97.75, Time: 1717416185153; HR: 84, Modified HR: 96.6, Time 1717416186120; HR: 83, Modified HR: 95.45, Time 1717416187198; End HR: 84, Time 1717416192120; 
+
+HR Changes in between trials:  HR: 84, Modified HR: 96.6, Time 1717416192121;
+
+Trial 7 - Starting HR: 84, Modified HR: 109.2, Time: 1717416195140; HR: 83, Modified HR: 107.9, Time 1717416196119; HR: 82, Modified HR: 106.6, Time 1717416197141; HR: 81, Modified HR: 105.3, Time 1717416198118; HR: 82, Modified HR: 106.6, Time 1717416201142; HR: 83, Modified HR: 107.9, Time 1717416202114; End HR: 84, Time 1717416203139; 
+
+HR Changes in between trials:  HR: 84, Modified HR: 109.2, Time 1717416203141; HR: 85, Modified HR: 110.5, Time 1717416204109;
+
+Trial 8 - Starting HR: 86, Modified HR: 86, Time: 1717416206112; HR: 85, Modified HR: 85, Time 1717416207184; HR: 83, Modified HR: 83, Time 1717416209131; HR: 84, Modified HR: 84, Time 1717416213131; End HR: 85, Time 1717416214109; 
+
+HR Changes in between trials:  HR: 85, Modified HR: 85, Time 1717416214110; HR: 86, Modified HR: 86, Time 1717416215131;
+
+Trial 9 - Starting HR: 85, Modified HR: 97.75, Time: 1717416218153; HR: 86, Modified HR: 98.9, Time 1717416222153; End HR: 85, Time 1717416225120; 
+
+HR Changes in between trials:  HR: 85, Modified HR: 97.75, Time 1717416225121;
+
+Trial 10 - Starting HR: 85, Modified HR: 59.5, Time: 1717416229119; HR: 86, Modified HR: 60.2, Time 1717416230148; HR: 85, Modified HR: 59.5, Time 1717416232143; HR: 86, Modified HR: 60.2, Time 1717416234141; End HR: 85, Time 1717416236142; 
+
+HR Changes in between trials:  HR: 85, Modified HR: 59.5, Time 1717416236143;
+
+Trial 11 - Starting HR: 82, Modified HR: 82, Time: 1717416240141; HR: 83, Modified HR: 83, Time 1717416243109; HR: 84, Modified HR: 84, Time 1717416244131; HR: 85, Modified HR: 85, Time 1717416245110; HR: 86, Modified HR: 86, Time 1717416246132; HR: 85, Modified HR: 85, Time 1717416247109; End HR: 85, Time 1717416248133; 
+
+HR Changes in between trials: 
+
+Trial 12 - Starting HR: 85, Modified HR: 97.75, Time: 1717416252130; HR: 86, Modified HR: 98.9, Time 1717416253149; HR: 85, Modified HR: 97.75, Time 1717416254176; HR: 87, Modified HR: 100.05, Time 1717416258133; End HR: 88, Time 1717416259154; 
+
+HR Changes in between trials:  HR: 88, Modified HR: 101.2, Time 1717416259155;
+
+Trial 13 - Starting HR: 81, Modified HR: 68.85, Time: 1717416269198; HR: 82, Modified HR: 69.7, Time 1717416271144; HR: 83, Modified HR: 70.55, Time 1717416272122; HR: 84, Modified HR: 71.4, Time 1717416274122; HR: 83, Modified HR: 70.55, Time 1717416275143; End HR: 83, Time 1717416276155; 
+
+HR Changes in between trials:  HR: 82, Modified HR: 69.7, Time 1717416277144;
+
+Trial 14 - Starting HR: 83, Modified HR: 83, Time: 1717416280111; HR: 84, Modified HR: 84, Time 1717416281133; HR: 83, Modified HR: 83, Time 1717416283132; HR: 81, Modified HR: 81, Time 1717416284115; HR: 80, Modified HR: 80, Time 1717416286111; End HR: 80, Time 1717416287233; 
+
+HR Changes in between trials:  HR: 81, Modified HR: 81, Time 1717416288154;
+
+Trial 15 - Starting HR: 84, Modified HR: 58.8, Time: 1717416292109; HR: 83, Modified HR: 58.1, Time 1717416293132; HR: 82, Modified HR: 57.4, Time 1717416294146; HR: 80, Modified HR: 56, Time 1717416295133; HR: 81, Modified HR: 56.7, Time 1717416297131; End HR: 82, Time 1717416299133; 
+
+HR Changes in between trials:  HR: 82, Modified HR: 57.4, Time 1717416299134; HR: 83, Modified HR: 58.1, Time 1717416300155;
+ Trial List for Block 3: List contents: -1, 2, 1, 1, 0, -2, 1, 2, -1, -2, 0, 2, -2, 0, -1,  
+Started the practice round at: 6/11/2024 11:34:52 AM
+Started the practice round at: 6/11/2024 11:35:34 AM
+Started the experiment at: 6/11/2024 11:36:37 AM
+ Trial List for Block 1: List contents: 1, 0, -1, 0, 2, -1, -2, 1, -2, 2, 1, -1, 0, 2, -2,  
+
+
+Trial 1 - Starting HR: 84, Modified HR: 96.6, Time: 1718098599836; HR: 83, Modified HR: 95.45, Time 1718098601852; HR: 82, Modified HR: 94.3, Time 1718098602852; HR: 81, Modified HR: 93.15, Time 1718098603832; HR: 80, Modified HR: 92, Time 1718098605819; End HR: 79, Time 1718098606807; 
+
+HR Changes in between trials:  HR: 79, Modified HR: 90.85, Time 1718098606808;
+
+Trial 2 - Starting HR: 79, Modified HR: 79, Time: 1718098612794; HR: 78, Modified HR: 78, Time 1718098614818; HR: 79, Modified HR: 79, Time 1718098617794; End HR: 79, Time 1718098619818; 
+
+HR Changes in between trials: 
+
+Trial 3 - Starting HR: 76, Modified HR: 64.6, Time: 1718098623817; HR: 77, Modified HR: 65.45, Time 1718098624818; HR: 79, Modified HR: 67.15, Time 1718098625809; HR: 81, Modified HR: 68.85, Time 1718098626841; End HR: 81, Time 1718098630797; 
+
+HR Changes in between trials: 
+
+Trial 4 - Starting HR: 79, Modified HR: 79, Time: 1718098634809; HR: 80, Modified HR: 80, Time 1718098635841; HR: 81, Modified HR: 81, Time 1718098636830; HR: 82, Modified HR: 82, Time 1718098637818; HR: 81, Modified HR: 81, Time 1718098639841; HR: 80, Modified HR: 80, Time 1718098641785; End HR: 78, Time 1718098642818; 
+
+HR Changes in between trials:  HR: 78, Modified HR: 78, Time 1718098642819;
+
+Trial 5 - Starting HR: 80, Modified HR: 104, Time: 1718098647817; HR: 79, Modified HR: 102.7, Time 1718098651819; HR: 77, Modified HR: 100.1, Time 1718098652808; HR: 76, Modified HR: 98.8, Time 1718098653797; End HR: 76, Time 1718098654785; 
+
+HR Changes in between trials: 
+
+Trial 6 - Starting HR: 77, Modified HR: 65.45, Time: 1718098658802; HR: 76, Modified HR: 64.6, Time 1718098661819; HR: 75, Modified HR: 63.75, Time 1718098662807; HR: 76, Modified HR: 64.6, Time 1718098664830; End HR: 76, Time 1718098665818; 
+
+HR Changes in between trials:  HR: 77, Modified HR: 65.45, Time 1718098666808;
+
+Trial 7 - Starting HR: 78, Modified HR: 54.6, Time: 1718098670817; HR: 77, Modified HR: 53.9, Time 1718098671806; HR: 75, Modified HR: 52.5, Time 1718098672791; HR: 76, Modified HR: 53.2, Time 1718098674819; HR: 77, Modified HR: 53.9, Time 1718098675808; HR: 79, Modified HR: 55.3, Time 1718098676795; End HR: 80, Time 1718098677786; 
+
+HR Changes in between trials:  HR: 80, Modified HR: 56, Time 1718098677787; HR: 83, Modified HR: 58.1, Time 1718098678775;
+
+Trial 8 - Starting HR: 83, Modified HR: 95.45, Time: 1718098682784; HR: 80, Modified HR: 92, Time 1718098683863; HR: 79, Modified HR: 90.85, Time 1718098684852; HR: 78, Modified HR: 89.7, Time 1718098686786; HR: 79, Modified HR: 90.85, Time 1718098687786; HR: 80, Modified HR: 92, Time 1718098688863; End HR: 81, Time 1718098689807; 
+
+HR Changes in between trials:  HR: 81, Modified HR: 93.15, Time 1718098689809;
+
+Trial 9 - Starting HR: 81, Modified HR: 56.7, Time: 1718098693816; HR: 80, Modified HR: 56, Time 1718098694805; HR: 79, Modified HR: 55.3, Time 1718098695888; HR: 78, Modified HR: 54.6, Time 1718098696785; HR: 77, Modified HR: 53.9, Time 1718098697819; End HR: 77, Time 1718098700785; 
+
+HR Changes in between trials:  HR: 78, Modified HR: 54.6, Time 1718098701773;
+
+Trial 10 - Starting HR: 78, Modified HR: 101.4, Time: 1718098705784; HR: 77, Modified HR: 100.1, Time 1718098706818; End HR: 77, Time 1718098712806; 
+
+HR Changes in between trials:  HR: 78, Modified HR: 101.4, Time 1718098713880;
+
+Trial 11 - Starting HR: 76, Modified HR: 87.4, Time: 1718098716808; HR: 75, Modified HR: 86.25, Time 1718098717851; HR: 74, Modified HR: 85.1, Time 1718098718879; HR: 73, Modified HR: 83.95, Time 1718098719830; HR: 74, Modified HR: 85.1, Time 1718098720819; HR: 76, Modified HR: 87.4, Time 1718098722847; End HR: 77, Time 1718098723785; 
+
+HR Changes in between trials:  HR: 77, Modified HR: 88.55, Time 1718098723786;
+
+Trial 12 - Starting HR: 76, Modified HR: 64.6, Time: 1718098727796; HR: 75, Modified HR: 63.75, Time 1718098728830; HR: 76, Modified HR: 64.6, Time 1718098729774; HR: 78, Modified HR: 66.3, Time 1718098731896; HR: 80, Modified HR: 68, Time 1718098733786; End HR: 81, Time 1718098735808; 
+
+HR Changes in between trials:  HR: 81, Modified HR: 68.85, Time 1718098735809; HR: 80, Modified HR: 68, Time 1718098736801;
+
+Trial 13 - Starting HR: 78, Modified HR: 78, Time: 1718098739817; HR: 79, Modified HR: 79, Time 1718098740846; HR: 80, Modified HR: 80, Time 1718098741797; HR: 82, Modified HR: 82, Time 1718098743819; HR: 83, Modified HR: 83, Time 1718098745797; End HR: 84, Time 1718098746786; 
+
+HR Changes in between trials:  HR: 84, Modified HR: 84, Time 1718098746787; HR: 85, Modified HR: 85, Time 1718098747830;
+
+Trial 14 - Starting HR: 80, Modified HR: 104, Time: 1718098750796; HR: 81, Modified HR: 105.3, Time 1718098752819; HR: 82, Modified HR: 106.6, Time 1718098753808; HR: 83, Modified HR: 107.9, Time 1718098754855; HR: 84, Modified HR: 109.2, Time 1718098755797; End HR: 84, Time 1718098758808; 
+
+HR Changes in between trials:  HR: 82, Modified HR: 106.6, Time 1718098759846;
+
+Trial 15 - Starting HR: 77, Modified HR: 53.9, Time: 1718098762818; HR: 78, Modified HR: 54.6, Time 1718098765785; HR: 79, Modified HR: 55.3, Time 1718098766862; End HR: 78, Time 1718098769785; 
+
+HR Changes in between trials:  HR: 78, Modified HR: 54.6, Time 1718098769786; HR: 77, Modified HR: 53.9, Time 1718098770775;
+ Trial List for Block 2: List contents: 2, -2, 2, 1, -1, -2, 0, 0, -1, 1, -2, 0, 1, -1, 2,  
+
+
+Trial 1 - Starting HR: 78, Modified HR: 101.4, Time: 1718098775774; HR: 77, Modified HR: 100.1, Time 1718098777844;
+
+Trial 2 - Starting HR: 79, Modified HR: 55.3, Time: 1718098788784; HR: 78, Modified HR: 54.6, Time 1718098790808; HR: 79, Modified HR: 55.3, Time 1718098792786; HR: 80, Modified HR: 56, Time 1718098793775; End HR: 80, Time 1718098795808; 
+
+HR Changes in between trials: 
+
+Trial 3 - Starting HR: 80, Modified HR: 104, Time: 1718098800978; HR: 81, Modified HR: 105.3, Time 1718098802785; HR: 82, Modified HR: 106.6, Time 1718098803863; HR: 83, Modified HR: 107.9, Time 1718098805797; HR: 82, Modified HR: 106.6, Time 1718098807775; End HR: 82, Time 1718098808810; 
+
+HR Changes in between trials:  HR: 81, Modified HR: 105.3, Time 1718098809802;
+
+Trial 4 - Starting HR: 80, Modified HR: 92, Time: 1718098813808; HR: 81, Modified HR: 93.15, Time 1718098814797; HR: 82, Modified HR: 94.3, Time 1718098815785; HR: 83, Modified HR: 95.45, Time 1718098817819; HR: 82, Modified HR: 94.3, Time 1718098818852; End HR: 83, Time 1718098820786; 
+
+HR Changes in between trials:  HR: 83, Modified HR: 95.45, Time 1718098820787;
+
+Trial 5 - Starting HR: 84, Modified HR: 71.4, Time: 1718098823800; HR: 85, Modified HR: 72.25, Time 1718098824841; HR: 86, Modified HR: 73.1, Time 1718098825786; HR: 85, Modified HR: 72.25, Time 1718098829785; HR: 84, Modified HR: 71.4, Time 1718098830775; End HR: 83, Time 1718098831809; 
+
+HR Changes in between trials:  HR: 83, Modified HR: 70.55, Time 1718098831809;
+
+Trial 6 - Starting HR: 82, Modified HR: 57.4, Time: 1718098835818; End HR: 81, Time 1718098842797; 
+
+HR Changes in between trials:  HR: 81, Modified HR: 56.7, Time 1718098842798;
+
+Trial 7 - Starting HR: 82, Modified HR: 82, Time: 1718098846843; HR: 81, Modified HR: 81, Time 1718098849774; End HR: 81, Time 1718098853775; 
+
+HR Changes in between trials:  HR: 82, Modified HR: 82, Time 1718098854809;
+
+Trial 8 - Starting HR: 82, Modified HR: 82, Time: 1718098858774; HR: 81, Modified HR: 81, Time 1718098860797; HR: 80, Modified HR: 80, Time 1718098861786; HR: 81, Modified HR: 81, Time 1718098863818; HR: 82, Modified HR: 82, Time 1718098864851; End HR: 83, Time 1718098865797; 
+
+HR Changes in between trials:  HR: 83, Modified HR: 83, Time 1718098865798;
+
+Trial 9 - Starting HR: 82, Modified HR: 69.7, Time: 1718098869796; HR: 83, Modified HR: 70.55, Time 1718098873848;
+
+Trial 10 - Starting HR: 83, Modified HR: 95.45, Time: 1718098893349; HR: 82, Modified HR: 94.3, Time 1718098893350; HR: 83, Modified HR: 95.45, Time 1718098893351; HR: 85, Modified HR: 97.75, Time 1718098893351; HR: 88, Modified HR: 101.2, Time 1718098893352; HR: 92, Modified HR: 105.8, Time 1718098893352; HR: 93, Modified HR: 106.95, Time 1718098893354; HR: 91, Modified HR: 104.65, Time 1718098893354; HR: 90, Modified HR: 103.5, Time 1718098893358; HR: 89, Modified HR: 102.35, Time 1718098893358; HR: 88, Modified HR: 101.2, Time 1718098893359; HR: 87, Modified HR: 100.05, Time 1718098893359; HR: 85, Modified HR: 97.75, Time 1718098893360; HR: 84, Modified HR: 96.6, Time 1718098893788; HR: 83, Modified HR: 95.45, Time 1718098894787; HR: 82, Modified HR: 94.3, Time 1718098895776; HR: 81, Modified HR: 93.15, Time 1718098896808; HR: 80, Modified HR: 92, Time 1718098897797; End HR: 80, Time 1718098900807; 
+
+HR Changes in between trials: 
+
+Trial 11 - Starting HR: 79, Modified HR: 55.3, Time: 1718098904773; HR: 78, Modified HR: 54.6, Time 1718098905808; HR: 77, Modified HR: 53.9, Time 1718098907786; HR: 78, Modified HR: 54.6, Time 1718098910844; End HR: 78, Time 1718098911796; 
+
+HR Changes in between trials: 
+
+Trial 12 - Starting HR: 77, Modified HR: 77, Time: 1718098915851; HR: 78, Modified HR: 78, Time 1718098922775; End HR: 79, Time 1718098923853; 
+
+HR Changes in between trials:  HR: 79, Modified HR: 79, Time 1718098923854;
+
+Trial 13 - Starting HR: 77, Modified HR: 88.55, Time: 1718098927774; HR: 76, Modified HR: 87.4, Time 1718098933808; End HR: 76, Time 1718098934797; 
+
+HR Changes in between trials: 
+
+Trial 14 - Starting HR: 76, Modified HR: 64.6, Time: 1718098939796; HR: 77, Modified HR: 65.45, Time 1718098942808; End HR: 76, Time 1718098946854; 
+
+HR Changes in between trials:  HR: 76, Modified HR: 64.6, Time 1718098946854;
+
+Trial 15 - Starting HR: 78, Modified HR: 101.4, Time: 1718098950850; HR: 76, Modified HR: 98.8, Time 1718098954786; HR: 75, Modified HR: 97.5, Time 1718098956808; End HR: 75, Time 1718098958785; 
+
+HR Changes in between trials:  HR: 76, Modified HR: 98.8, Time 1718098959825;
+ Trial List for Block 3: List contents: -1, 0, -2, 1, 2, 2, 0, 2, 1, 0, -1, -2, -1, -2, 1,  
+
+
+Trial 1 - Starting HR: 75, Modified HR: 63.75, Time: 1718098967785; HR: 76, Modified HR: 64.6, Time 1718098970808; End HR: 75, Time 1718098974808; 
+
+HR Changes in between trials:  HR: 75, Modified HR: 63.75, Time 1718098974809;
+
+Trial 2 - Starting HR: 74, Modified HR: 74, Time: 1718098981785; HR: 75, Modified HR: 75, Time 1718098982781; HR: 76, Modified HR: 76, Time 1718098985796; End HR: 76, Time 1718098988808; 
+
+HR Changes in between trials: 
+
+Trial 3 - Starting HR: 76, Modified HR: 53.2, Time: 1718098993807; HR: 77, Modified HR: 53.9, Time 1718098995785; HR: 76, Modified HR: 53.2, Time 1718098997808; HR: 75, Modified HR: 52.5, Time 1718098999830; HR: 74, Modified HR: 51.8, Time 1718099000784; End HR: 74, Time 1718099001854; 
+
+HR Changes in between trials: 
+
+Trial 4 - Starting HR: 81, Modified HR: 93.15, Time: 1718099005773; HR: 85, Modified HR: 97.75, Time 1718099006852; HR: 86, Modified HR: 98.9, Time 1718099007797; HR: 85, Modified HR: 97.75, Time 1718099008797; HR: 84, Modified HR: 96.6, Time 1718099010814; HR: 81, Modified HR: 93.15, Time 1718099011808; End HR: 79, Time 1718099012796; 
+
+HR Changes in between trials:  HR: 79, Modified HR: 90.85, Time 1718099012798; HR: 78, Modified HR: 89.7, Time 1718099013785;
+
+Trial 5 - Starting HR: 78, Modified HR: 101.4, Time: 1718099016851; HR: 76, Modified HR: 98.8, Time 1718099018785; HR: 75, Modified HR: 97.5, Time 1718099019778; HR: 74, Modified HR: 96.2, Time 1718099020808; HR: 73, Modified HR: 94.9, Time 1718099021797; End HR: 74, Time 1718099024851; 
+
+HR Changes in between trials:  HR: 74, Modified HR: 96.2, Time 1718099024852;
+
+Trial 6 - Starting HR: 74, Modified HR: 96.2, Time: 1718099027832; End HR: 74, Time 1718099035796; 
+
+HR Changes in between trials: 
+
+Trial 7 - Starting HR: 75, Modified HR: 75, Time: 1718099040795; End HR: 75, Time 1718099047775; 
+
+HR Changes in between trials:  HR: 74, Modified HR: 74, Time 1718099048808;
+
+Trial 8 - Starting HR: 72, Modified HR: 93.6, Time: 1718099052762; HR: 73, Modified HR: 94.9, Time 1718099053807; End HR: 74, Time 1718099059830; 
+
+HR Changes in between trials:  HR: 74, Modified HR: 96.2, Time 1718099059831; HR: 75, Modified HR: 97.5, Time 1718099060830;
+
+Trial 9 - Starting HR: 73, Modified HR: 83.95, Time: 1718099063795; HR: 74, Modified HR: 85.1, Time 1718099065853; HR: 75, Modified HR: 86.25, Time 1718099066808; HR: 76, Modified HR: 87.4, Time 1718099068786; End HR: 75, Time 1718099070819; 
+
+HR Changes in between trials:  HR: 75, Modified HR: 86.25, Time 1718099070821; HR: 73, Modified HR: 83.95, Time 1718099071808;
+
+Trial 10 - Starting HR: 71, Modified HR: 71, Time: 1718099075774; HR: 72, Modified HR: 72, Time 1718099077797; HR: 71, Modified HR: 71, Time 1718099080852; HR: 70, Modified HR: 70, Time 1718099081841; End HR: 70, Time 1718099083810; 
+
+HR Changes in between trials: 
+
+Trial 11 - Starting HR: 70, Modified HR: 59.5, Time: 1718099086840; HR: 71, Modified HR: 60.35, Time 1718099088775; HR: 72, Modified HR: 61.2, Time 1718099089852; HR: 73, Modified HR: 62.05, Time 1718099091786; End HR: 73, Time 1718099093774; 
+
+HR Changes in between trials: 
+
+Trial 12 - Starting HR: 75, Modified HR: 52.5, Time: 1718099097784; HR: 77, Modified HR: 53.9, Time 1718099099796; HR: 78, Modified HR: 54.6, Time 1718099102775; HR: 79, Modified HR: 55.3, Time 1718099103808; End HR: 79, Time 1718099105786; 
+
+HR Changes in between trials: 
+
+Trial 13 - Starting HR: 78, Modified HR: 66.3, Time: 1718099110786; HR: 79, Modified HR: 67.15, Time 1718099112808; HR: 78, Modified HR: 66.3, Time 1718099114829; End HR: 78, Time 1718099117808; 
+
+HR Changes in between trials: 
+
+Trial 14 - Starting HR: 78, Modified HR: 54.6, Time: 1718099122796; HR: 80, Modified HR: 56, Time 1718099124865; End HR: 80, Time 1718099129775; 
+
+HR Changes in between trials: 
+
+Trial 15 - Starting HR: 80, Modified HR: 92, Time: 1718099133785; HR: 79, Modified HR: 90.85, Time 1718099136842; HR: 78, Modified HR: 89.7, Time 1718099137791; End HR: 78, Time 1718099140807; 
+
+HR Changes in between trials: 

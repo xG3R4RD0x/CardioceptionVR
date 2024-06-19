@@ -1,0 +1,16 @@
+Trial #,Speed Mod,Starting HR,Participant Response,Accuracy,Confidence Rating,40 BPM Question Duration (ms),Confidence Question Duration (ms)
+Trial 1,+10,86,matched,0,3,974.709,2522.566
+Trial 2,-10,80,matched,0,3,896.7773,1810.789
+Trial 3,-10,74,matched,0,0,940.8281,1000.078
+Trial 4,real,78,matched,1,0,1593.664,1567.328
+Trial 5,+10,81,matched,0,0,705.7109,1144.641
+Trial 1,+10,85,matched,0,0,1174.919,3567.113
+Trial 2,-10,84,no match,1,0,2709.131,14879.5
+Trial 3,-10,79,no match,1,0,1341.469,1133.621
+Trial 4,real,83,matched,1,0,665.1406,1222.109
+Trial 5,+10,85,no match,1,0,1331.406,922.2891
+Trial 1,+10,81,matched,0,3,893.7471,976.6807
+Trial 2,-10,82,no match,1,7,585.3105,1510.082
+Trial 3,-10,77,matched,0,5,1596.715,1644.84
+Trial 4,real,78,matched,1,4,830.2148,1132.168
+Trial 5,+10,75,no match,1,6,1882.391,1923.824

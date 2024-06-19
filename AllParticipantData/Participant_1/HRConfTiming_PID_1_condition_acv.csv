@@ -1,0 +1,76 @@
+Trial #,Modality,HR Mod,Actual HR,HR Participant Response,Accuracy,Confidence Rating,HR Question Duration (ms),Confidence Question Duration (ms),Total Duration of Entire Study (ms)
+Trial1,a,-15,82,no match,1,3,1033.219,1542.883,end_time_placeholder
+Trial2,a,+15,88,no match,1,10,1508.922,2133.594,end_time_placeholder
+Trial3,a,real,81,no match,0,5,506.7344,1276.594,end_time_placeholder
+Trial4,a,+15,80,no match,1,8,296.7734,2488.492,end_time_placeholder
+Trial5,a,-15,80,matched,0,7,1264.891,1933.266,end_time_placeholder
+Trial6,a,+30,81,no match,1,8,397.5938,1254.891,end_time_placeholder
+Trial7,a,+30,85,no match,1,8,519.7188,1322.547,end_time_placeholder
+Trial8,a,+30,82,matched,0,4,431.8438,1854.688,end_time_placeholder
+Trial9,a,-30,78,no match,1,5,1286.266,1400.969,end_time_placeholder
+Trial10,a,-30,81,no match,1,6,695.7656,1133.375,end_time_placeholder
+Trial11,a,+15,83,matched,0,6,430.5781,1132.938,end_time_placeholder
+Trial12,a,-15,85,matched,0,5,2199.469,854.5938,end_time_placeholder
+Trial13,a,real,87,no match,0,7,564.9219,1057.75,end_time_placeholder
+Trial14,a,-30,84,matched,0,6,643.6875,1089.234,end_time_placeholder
+Trial15,a,real,81,matched,1,8,819.9375,1156.016,end_time_placeholder
+Trial1,c,-15,85,matched,0,7,1032,1377.844,end_time_placeholder
+Trial2,c,+30,84,no match,1,7,353.2813,1499.688,end_time_placeholder
+Trial3,c,-15,85,matched,0,7,275.1875,1033.188,end_time_placeholder
+Trial4,c,+30,82,no match,1,8,320.1875,1323.188,end_time_placeholder
+Trial5,c,-30,87,no match,1,3,1055.125,2332.563,end_time_placeholder
+Trial6,c,+15,85,no match,1,7,276.6563,1032.563,end_time_placeholder
+Trial7,c,+30,84,no match,1,8,325.9688,1300.781,end_time_placeholder
+Trial8,c,real,86,no match,0,5,275.5938,1799.813,end_time_placeholder
+Trial9,c,+15,85,no match,1,7,453.4063,1077.5,end_time_placeholder
+Trial10,c,-30,85,matched,0,7,698.4063,1589.656,end_time_placeholder
+Trial11,c,real,82,matched,1,7,931.6563,999.75,end_time_placeholder
+Trial12,c,+15,85,no match,1,7,3232.688,1277.938,end_time_placeholder
+Trial13,c,-15,81,no match,1,8,464.0313,1144.813,end_time_placeholder
+Trial14,c,real,83,matched,1,7,665.4375,1745,end_time_placeholder
+Trial15,c,-30,84,no match,1,7,665.1875,889.625,end_time_placeholder
+Trial1,a,+15,84,matched,0,4,932.1875,2244.141,end_time_placeholder
+Trial2,a,real,79,matched,1,8,285.9766,1466.352,end_time_placeholder
+Trial3,a,-15,76,matched,0,6,727.5547,1457,end_time_placeholder
+Trial4,a,real,79,no match,0,8,1383.672,1177.711,end_time_placeholder
+Trial5,a,+30,80,no match,1,10,886.7031,1411.578,end_time_placeholder
+Trial6,a,-15,77,matched,0,7,696.5469,1479.25,end_time_placeholder
+Trial7,a,-30,78,matched,0,7,772.7656,1511.094,end_time_placeholder
+Trial8,a,+15,83,no match,1,8,739.9063,1057.25,end_time_placeholder
+Trial9,a,-30,81,matched,0,6,962.7031,1077.156,end_time_placeholder
+Trial10,a,+30,78,no match,1,10,842.4063,1177.141,end_time_placeholder
+Trial11,a,+15,76,no match,1,9,331.625,1266.75,end_time_placeholder
+Trial12,a,-15,76,matched,0,6,586.75,1686.969,end_time_placeholder
+Trial13,a,real,78,matched,1,7,404.1406,1256.578,end_time_placeholder
+Trial14,a,+30,80,no match,1,10,475.8125,1488.172,end_time_placeholder
+Trial15,a,-30,77,no match,1,10,731.4531,1311.359,end_time_placeholder
+Trial1,c,+30,78,no match,1,8,1996.016,1099.688,end_time_placeholder
+Trial2,c,-30,79,matched,0,9,1520.531,1788.297,end_time_placeholder
+Trial3,c,+30,80,no match,1,8,1342.594,1276.969,end_time_placeholder
+Trial4,c,+15,80,no match,1,10,330.5,1088.031,end_time_placeholder
+Trial5,c,-15,84,matched,0,8,487.7188,1476.469,end_time_placeholder
+Trial6,c,-30,82,matched,0,8,786.25,1144.375,end_time_placeholder
+Trial7,c,real,82,matched,1,7,1240.563,1524.563,end_time_placeholder
+Trial8,c,real,82,no match,0,7,364.5938,1255.938,end_time_placeholder
+Trial9,c,-15,82,no match,1,7,3854.031,1588.156,end_time_placeholder
+Trial10,c,+15,83,no match,1,10,697.4063,1455.844,end_time_placeholder
+Trial11,c,-30,79,no match,1,7,397.9063,1410.438,end_time_placeholder
+Trial12,c,real,77,matched,1,8,519.8438,1311.281,end_time_placeholder
+Trial13,c,+15,77,no match,1,6,1564.156,1311.375,end_time_placeholder
+Trial14,c,-15,76,matched,0,7,509.0938,1624.156,end_time_placeholder
+Trial15,c,+30,78,no match,1,10,497.2813,1311.563,end_time_placeholder
+Trial1,v,-15,75,matched,0,6,2796.656,1255.281,end_time_placeholder
+Trial2,v,real,74,matched,1,6,1876.063,1322.344,end_time_placeholder
+Trial3,v,-30,76,no match,1,8,385.7813,1554.813,end_time_placeholder
+Trial4,v,+15,81,no match,1,10,563.4375,1600.094,end_time_placeholder
+Trial5,v,+30,78,no match,1,8,608.4375,989.0313,end_time_placeholder
+Trial6,v,+30,74,no match,1,10,1241.125,1453.281,end_time_placeholder
+Trial7,v,real,75,matched,1,7,841.875,1666.438,end_time_placeholder
+Trial8,v,+30,72,no match,1,7,815.75,898.4375,end_time_placeholder
+Trial9,v,+15,73,no match,1,6,1122.188,1597.875,end_time_placeholder
+Trial10,v,real,71,no match,0,6,486.5625,977.125,end_time_placeholder
+Trial11,v,-15,70,no match,1,9,731.625,935.3125,end_time_placeholder
+Trial12,v,-30,75,no match,1,7,1720.688,1799.063,end_time_placeholder
+Trial13,v,-15,78,matched,0,8,815.6875,1244.688,end_time_placeholder
+Trial14,v,-30,78,matched,0,7,647,1312.375,end_time_placeholder
+Trial15,v,+15,80,no match,1,8,1152.938,1388.188,00:12:04.9010000
